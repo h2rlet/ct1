@@ -4,7 +4,7 @@ public class Test
 {
 	public static void Main(string[] args)
 	{
-        SqlConnection conn = new SqlConnection("server=dummy;database=dummy;id=asdfgh;password=qwerty");
+        SqlConnection conn = new SqlConnection("");
         conn.Open();
 		Console.WriteLine(args[0]);
         var sql = $"select * from datatable where id = '" + args[0] + "'";
