@@ -1,0 +1,15 @@
+/Users/hiroki/Documents/csrepos/ct1/bin/Debug/net6.0/ct1
+/Users/hiroki/Documents/csrepos/ct1/bin/Debug/net6.0/ct1.deps.json
+/Users/hiroki/Documents/csrepos/ct1/bin/Debug/net6.0/ct1.runtimeconfig.json
+/Users/hiroki/Documents/csrepos/ct1/bin/Debug/net6.0/ct1.dll
+/Users/hiroki/Documents/csrepos/ct1/bin/Debug/net6.0/ct1.pdb
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.csproj.AssemblyReference.cache
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.AssemblyInfoInputs.cache
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.AssemblyInfo.cs
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.csproj.CoreCompileInputs.cache
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.dll
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/refint/ct1.dll
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.pdb
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ct1.genruntimeconfig.cache
+/Users/hiroki/Documents/csrepos/ct1/obj/Debug/net6.0/ref/ct1.dll
