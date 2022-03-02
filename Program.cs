@@ -7,4 +7,4 @@ public class Test
 		Console.WriteLine(args[0]);
 	}
 }
-#comment
+//comment
